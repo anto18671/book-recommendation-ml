@@ -1,8 +1,5 @@
 # book-recommendation-ml
 
-Book Recommendation ML
-======================
-
 Overview
 --------
 
